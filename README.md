@@ -8,7 +8,7 @@
 <!-- [![Github Stars](https://img.shields.io/github/stars/shengxinjing?color=faf408&label=Github%20Star&logo=github)](https://github.com/shengxinjing) -->
 <!-- - [知乎](https://www.zhihu.com/people/woniuppp)-->
 
-
+[![JunYouer's github stats](https://github-readme-stats.vercel.app/api?username=shengxinjing)](https://github.com/anuraghazra/github-readme-stats)
 
 **擅长:**  
 
