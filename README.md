@@ -8,7 +8,6 @@
 <!-- [![Github Stars](https://img.shields.io/github/stars/shengxinjing?color=faf408&label=Github%20Star&logo=github)](https://github.com/shengxinjing) -->
 <!-- - [知乎](https://www.zhihu.com/people/woniuppp)-->
 
-[![JunYouer's github stats](https://github-readme-stats.vercel.app/api?username=shengxinjing)](https://github.com/anuraghazra/github-readme-stats)
 
 **擅长:**  
 
@@ -18,7 +17,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-
+[![JunYouer's github stats](https://github-readme-stats.vercel.app/api?username=shengxinjing)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
