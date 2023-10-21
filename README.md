@@ -20,7 +20,7 @@
 
 
 
-[![shengxinjing's github stats](https://github-readme-stats.vercel.app/api?username=shengxinjing)](https://github.com/anuraghazra/github-readme-stats)
+[![JunYouer's github stats](https://github-readme-stats.vercel.app/api?username=shengxinjing)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 <img height="150" src="https://cdn.jsdelivr.net/gh/shengxinjing/static/wechat.jpg" />
 
