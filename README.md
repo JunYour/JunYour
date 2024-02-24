@@ -25,7 +25,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=otary&hide=&show=&text_bold=true&number_format=short&border_radius=4.5" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
